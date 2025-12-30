@@ -19,3 +19,7 @@ def home(request):
 #signals value intrested:
 
 Student_Signals.objects.create(name = "naveen", age = 23)
+
+Student_Signals.objects.create(name = "jebi", age = 20)
+
+
